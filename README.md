@@ -2,7 +2,7 @@
 
 This repository includes the data and analysis code used for the study "Reversion to metabolic autonomy underpins evolutionary rescue of a bacterial obligate mutualism" Melero-Jiménez et al. 202-.
 
-## Folder Descriptions
+## Folder Descriptions (data.zip)
 
 - **Cross_resistance_exp**: Contains the raw data related to cross-resistance experiments.
 - **GC_FS1**: Holds raw data specific to the growth curves in Figure S1.
