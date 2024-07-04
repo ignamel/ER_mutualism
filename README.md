@@ -1,6 +1,6 @@
 # ER_mutualism
 
-This repository includes the data and analysis code used for the study "Reversion to metabolic autonomy underpins evolutionary rescue of a bacterial obligate mutualism" Melero-Jiménez et al. 202-.
+This repository includes the data and analysis code used for the study "Reversion to metabolic autonomy underpins evolutionary rescue in a bacterial obligate mutualism" Melero-Jiménez et al. 202-.
 
 ## Folder Descriptions (data.zip)
 
