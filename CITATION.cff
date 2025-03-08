@@ -1,0 +1,21 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Melero-Jiménez
+    given-names: Ignacio J.
+    orcid: "https://orcid.org/0000-0003-1570-3828"
+  - family-names: Sorokin
+    given-names: Yael
+  - family-names: Merlin
+    given-names: Ami
+  - family-names: Li
+    given-names: Jiawei
+  - family-names: Couce
+    given-names: Alejandro
+    orcid: "https://orcid.org/0000-0002-4153-6018"
+  - family-names: Friedman
+    given-names: Jonathan
+    orcid: "https://orcid.org/0000-0001-8476-8030"
+title: "ignamel/ER_mutualism: Code and data for article titled 'Mutualism breakdown underpins evolutionary rescue in an obligate cross-feeding bacterial consortium'"
+version: "v.1.0.0"
+date-released: "2025-03-08"
