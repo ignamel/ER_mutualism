@@ -18,5 +18,10 @@ This repository includes the data and analysis code used for the study "Reversio
 ## Code Files
 
 - **Code_ER_mutualism.ipynb**: Jupyter Notebook containing the analysis code used in this study, including scripts for generating the main results and figures.
-- **R1_code.ipynb**: Code used for the new analysis included in this study after the first round of revisions. 
+- **R1_code.ipynb**: Code used for the new analysis included in this study after the first round of revisions.
 
+## Folder Descriptions: `Final_Data_and_Code.zip`
+
+- **`R2_code.ipynb`**: Jupyter Notebook containing the analysis code after the second round of revisions.
+- **`Data`**: Contains the dataset used before the first revision (R1).
+- **`Data_R`**: Includes the dataset after the first revision (R1).
